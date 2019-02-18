@@ -17,6 +17,9 @@ public class JavaApplication1 {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.print("mi primer repositorio en netbeas");
+        
+        //https://www.youtube.com/watch?v=fqTGczXq-kk
+        //Trabajo Colaborativo con Netbeans y GitHub
     }
     
 }
